@@ -1,0 +1,57 @@
+body {
+    font-family:'Source Sans Pro', sans-serif; 
+}
+
+.Navigacija {
+    margin: 15px;
+    width: 200px;
+    float: left;
+    display: inline-block;
+}
+
+.Content {
+    margin: 15px;
+    width: 900px;
+    display: inline-block;
+    border: 1px black solid;
+}
+
+.Sadrzaj {
+    padding: 15px;
+}
+
+table {
+    font-family: 'Source Sans Pro', sans-serif;
+    border-collapse: separate;
+    margin: 0 auto;
+    width: 90%;
+    border-spacing: 2px;
+  }
+
+  th {
+    padding: 18px;
+  }
+
+  td {
+    padding: 12px;
+  }
+
+
+#Heading {
+    padding: 18px;
+    background-color: #488adb;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+tr {
+    background-color: #edf0e6;
+}
+
+tr.Svaka-prva {
+    background-color: #ede9f0;
+}
+
+
